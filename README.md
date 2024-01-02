@@ -25,20 +25,16 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/15584dc8-073d-4930-884f-100ae454648b)
-![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/ab253982-4b87-42a6-ae86-17b6e7cbe280)
-![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/fd14f27e-2d47-4d61-ac4d-48b22ceee3c0)
-![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/03da5b6f-95fa-4060-8f4c-04fa7184a1d5)
+![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/fbfa67a7-5803-4707-826e-1660e23e713a)
+![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/6c57b545-3e13-46b6-9648-a7937105f0b4)
+![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/58a426f7-0d16-4817-8312-3c5b73a4f693)
+![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/d595478c-2185-4d25-b254-9447a5afc2fb)
+![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/4cc02723-1f61-4ae1-bec1-fcaedef33268)
+![image](https://github.com/PREETHI3312/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625222/0ab37bbd-65d2-43e7-9bcb-d52bb40911fe)
 
-
-
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
-
-## Output:
 
 ### Name:A K PREETHI
-### Register Number:23013312
+### Register Number:212223230156
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
